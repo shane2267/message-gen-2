@@ -1,2 +1,2 @@
 # message-gen-2
-JS oke generator using json
+JS joke generator using json
